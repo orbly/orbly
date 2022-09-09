@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orbly
 - 👀 I’m interested in iOS development, DJing & music production
-- 🌱 I’m currently learning #Swift
+- 🌱 I’m currently learning Swift
 - 📫 orblymusic@gmail.com
 
 <!---
